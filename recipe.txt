@@ -3,3 +3,5 @@ kheer
 paneer
 pasta
 chapati
+beans
+pizza
